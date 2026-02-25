@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "サック",
+  "base_artist": "IGLOOVY",
+  "createdAt": "2026-02-25T18:11:56.451390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Suck Young Blood. (Your Time Is Up.) = ウィ・サック・ヤング・ブラッド （ユア・タイム・イズ・アップ）",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_We_Suck_Young_Blood._(Your_Time_Is_Up.)_=_ウィ・サック・ヤング・ブラッド_(ユア・タイム・イズ・アップ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Suck Young Blood. (Your Time Is Up.) = ウィ・サック・ヤング・ブラッド (ユア・タイム・イズ・アップ)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_We_Suck_Young_Blood._(Your_Time_Is_Up.)_=_ウィ・サック・ヤング・ブラッド_(ユア・タイム・イズ・アップ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サック",
+      "artist": "IGLOOVY",
+      "has_synced": true,
+      "path": "select/03_サック_IGLOOVY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サック",
+      "artist": "IGLOOVY",
+      "has_synced": false,
+      "path": "select/pl_01_サック_IGLOOVY.txt"
+    }
+  ]
+}
